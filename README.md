@@ -32,4 +32,4 @@ I looked at the css-tricks.com website and searched how to make it work. I was a
           }  
           ```
           
-<h3>Screenshots</h3>
+<h3>Screenshots:</h3>
