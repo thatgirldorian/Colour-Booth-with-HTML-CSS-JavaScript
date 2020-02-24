@@ -33,3 +33,6 @@ I looked at the css-tricks.com website and searched how to make it work. I was a
           ```
           
 <h3>Screenshots:</h3>
+![Capture](https://user-images.githubusercontent.com/40691059/75191778-4af9ac00-5753-11ea-8e8b-a8aa17ba63ed.PNG)
+![Capture2](https://user-images.githubusercontent.com/40691059/75191791-5220ba00-5753-11ea-97cd-a084451e0ec0.PNG)
+
