@@ -1,5 +1,8 @@
 # Colour-Booth-with-HTML-CSS-JavaScript
 
+<h3>Description & Function:</h3>
+This is a colour booth I made with HTML, CSS and JavScript. It changes colour when you tpe in a colour value. I also built a slider that can move the whole booth from left to right, 180 degrees.
+
 <h3>Challenge faced:</h3>
 I had problems with getting the background image to render. I grabbed a nice photo from unsplash.com and linked to it with the CSS         properties below:
          
@@ -29,3 +32,4 @@ I looked at the css-tricks.com website and searched how to make it work. I was a
           }  
           ```
           
+<h3>Screenshots</h3>
