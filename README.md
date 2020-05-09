@@ -1,7 +1,7 @@
 # Colour-Booth-with-HTML-CSS-JavaScript
 
 <h3>Description & Function:</h3>
-This is a colour booth I made with HTML, CSS and JavScript. It changes colour when you type in a colour value. I also built a slider that can move the whole booth from left to right, 180 degrees.
+This is a colour booth I made with HTML, CSS and JavScript. It changes colour when you type in a colour value. There is also a slider that can move the whole booth from left to right, 180 degrees.
 
 <h3>Challenge faced:</h3>
 I had problems with getting the background image to render. I grabbed a nice photo from unsplash.com and linked to it with the CSS         properties below:
